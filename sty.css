@@ -1,0 +1,60 @@
+
+.navbar{
+    background-image: linear-gradient(to right, #602F68 ,#523484);
+}
+.navbar-brand img{
+    height: 40px;
+    padding-left: 20px;
+
+}
+.navbar-nav li{
+    padding: 0 10px;
+}
+.navbar-nav li a{
+    color: floralwhite!important;
+}
+#About{
+    background-image: linear-gradient(to right, #602F68 ,#523484);
+    color: #fff;
+    padding-top: 5% ;
+}
+.promo-title{
+font-size: 40px;
+font-weight: 600;
+margin-top: 100px;
+}
+.bottom-img{
+    width: 100%;
+}
+.img-fluid{
+    margin-top: -20%;
+}
+#Projects{
+    padding: 80px 0;
+    
+}
+.tribute-img{
+    width: 450px;
+}
+.sql-img{
+    width: 450px;
+    margin-top: 20px;
+}
+.unity-img{
+    width: 400px;
+
+}
+#Contact{
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 30px;
+    padding: 390px 0;
+
+}
+.icons img {
+width:  60px;
+transition: 0.5s;
+}
+.icons a:hover img{
+    transform: translateY(-10px);
+}
